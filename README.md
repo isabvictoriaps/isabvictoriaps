@@ -1,8 +1,9 @@
 ### Oi! Eu sou a Isabelle Victoria.
 
-- 🌱 Estudo HTML, CSS E Javascript
-- 😄 Pronouns: ela/dela
-- 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code 
+- 💛 Tenho 18 anos;
+- 🌱 Estudo HTML, CSS E Javascript;
+- 😄 Pronouns: ela/dela;
+- 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; 
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com
 - 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/
 
