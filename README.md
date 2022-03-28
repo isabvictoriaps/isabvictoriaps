@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Isabelle Victoria.
 
 - 💛 Tenho 18 anos;
-- 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+- 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP;
 - 👨‍💻 Estudo HTML, CSS, Javascript, React.js e Java;
 - 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; 
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com
