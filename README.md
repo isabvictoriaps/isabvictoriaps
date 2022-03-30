@@ -2,7 +2,7 @@
 
 - 💛 Tenho 18 anos;
 - 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP;
-- 👨‍💻 Estudo HTML, CSS, Javascript, React.js e Java;
+- 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap e Java;
 - 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; 
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com
 - 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/
