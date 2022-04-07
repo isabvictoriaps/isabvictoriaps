@@ -28,5 +28,14 @@
   <img align="center" alt="Isa-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Isa-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div> 
-
-##
+  
+  ##
+  
+  <div style:align="center" style="display: inline_block"><br>
+  <h4 style="color: blue;">ATIVIDADES INSTITUTO PROA</h4>
+    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaProgramacao&theme=rose_pine">
+    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=rose_pine">
+    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=rose_pine">
+        <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=rose_pine">
+            <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=rose_pine">
+  </div>
