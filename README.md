@@ -32,10 +32,10 @@
   ##
   
   <div style:align="center" style="display: inline_block"><br>
-  <h4 style="color: blue;">ATIVIDADES INSTITUTO PROA</h4>
+  <h4 style="color: blue;">PROJETOS - INSTITUTO PROA</h4>
     <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaProgramacao&theme=rose_pine">
-    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=rose_pine">
-    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=rose_pine">
-        <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=rose_pine">
-            <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=rose_pine">
+    <a href="https://github.com/isabvictoriaps/SitesBootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=rose_pine">
+    <a href="https://github.com/isabvictoriaps/medcare"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=rose_pine">
+        <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=rose_pine">
+            <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=rose_pine">
   </div>
