@@ -3,7 +3,7 @@
 <div style="margin-right: 500px;">
 - 💛 Tenho 18 anos; <br>
 - 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
-- 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap, Pyhton e Java; <br>
+- 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap, Python e Java; <br>
 - 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; <br>
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com <br>
 - 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br>
