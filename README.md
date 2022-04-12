@@ -38,4 +38,5 @@
     <a href="https://github.com/isabvictoriaps/medcare"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=highcontrast">
         <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=highcontrast">
             <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=highcontrast">
+              <a href="https://github.com/isabvictoriaps/CurriculoBootstrap.github.io"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=CurriculoBootstrap.github.io&theme=highcontrast">
   </div>
