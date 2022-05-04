@@ -47,7 +47,7 @@
               
   <div style:align="center" style="display: inline_block"><br>
   <h4 style="color: blue;">PROJETOS - DIGITAL INNOVATION ONE</h4>
-    <a href="https://github.com/isabvictoriaps/DIO/tree/main/Flexbox/flex-projeto"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=DIO&theme=highcontrast">
+    <a href="https://github.com/isabvictoriaps/DIO/tree/main"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=DIO&theme=highcontrast">
   </div>
 
                 
