@@ -6,6 +6,7 @@
 - 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap, Python e Java; <br>
 - 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; <br>
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com <br>
+- 💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
 - 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br>
 </div>
 
