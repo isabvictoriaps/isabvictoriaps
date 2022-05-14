@@ -1,10 +1,10 @@
-### Oi! Eu sou a Isabelle Victoria.
+### Olá! Eu sou a Isabelle Victoria :)
 
 <div style="margin-right: 500px;">
-- 💛 Tenho 18 anos; <br>
+  <br>
 - 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
-- 👨‍💻 Estudo HTML, CSS, Javascript, React.js, Bootstrap, Python e Java; <br>
-- 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code; <br>
+- 👨‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Python, SQL e Java; <br>
+- 🌱 Utilizo: Figma, Git, Trello, Canva, MySQL e Visual Studio Code; <br><BR>
 - 📫 Contate-me em: Isabellevictoria.urs@gmail.com <br>
 - 💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
 - 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br>
@@ -28,6 +28,7 @@
   <img align="center" alt="Isa-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Isa-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Isa-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Isa-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div> 
   
   
