@@ -2,20 +2,20 @@
 
 <div style="margin-right: 500px;">
   <br>
-- 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
-- 👨‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Python, SQL e Java; <br>
-- 🌱 Utilizo: Figma, Git, Trello, Canva, MySQL e Visual Studio Code; <br><BR>
-- 📫 Contate-me em: Isabellevictoria.urs@gmail.com <br>
-- 💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
-- 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br>
+ 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
+ 👨‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Python, SQL e Java; <br>
+ 💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code; <br><br>
+ 💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
+ 💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
+ 💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br>
 </div>
 
 ##
 
 <div align="center">
   <a href="https://github.com/isabvictoriaps/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabvictoriaps&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvictoriaps&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabvictoriaps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabvictoriaps&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -38,19 +38,23 @@
   
   <div style:align="center" style="display: inline_block"><br>
   <h4 style="color: blue;">PROJETOS - INSTITUTO PROA</h4>
-    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaProgramacao&theme=highcontrast">
-    <a href="https://github.com/isabvictoriaps/SitesBootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=highcontrast">
-    <a href="https://github.com/isabvictoriaps/medcare"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=highcontrast">
-    <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=highcontrast">
-    <a href="https://github.com/isabvictoriaps/CurriculoBootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=CurriculoBootstrap&theme=highcontrast">
-    <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=highcontrast">
+    <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaProgramacao&theme=dark">
+    <a href="https://github.com/isabvictoriaps/SitesBootstrap"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=dark">
+    <a href="https://github.com/isabvictoriaps/medcare"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=dark">
+      </div>
+       <div style:align="center" style="display: inline_block">
+    <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=dark">
+    <a href="https://github.com/isabvictoriaps/CurriculoBootstrap"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=CurriculoBootstrap&theme=dark">
+    <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=dark">
+     <a href="https://github.com/isabvictoriaps/buscadorCEP"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=buscadorCEP&theme=dark">
+     <a href="https://github.com/isabvictoriaps/caleb_bootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=caleb_bootstrap&theme=dark">
+        <a href="https://github.com/isabvictoriaps/caleb_bootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=caleb_bootstrap&theme=dark">
               
   </div>
               
   <div style:align="center" style="display: inline_block"><br>
   <h4 style="color: blue;">PROJETOS - DIGITAL INNOVATION ONE</h4>
-    <a href="https://github.com/isabvictoriaps/DIO/tree/main"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=DIO&theme=highcontrast">
+    <a href="https://github.com/isabvictoriaps/DIO/tree/main"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=DIO&theme=dark">
   </div>
-
-                
+    
   ![Isabvictoriaps](https://komarev.com/ghpvc/?username=Isabvictoriaps)
