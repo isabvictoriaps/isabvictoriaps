@@ -41,8 +41,6 @@
     <a href="https://github.com/isabvictoriaps/LogicaProgramacao"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaProgramacao&theme=dark">
     <a href="https://github.com/isabvictoriaps/SitesBootstrap"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=dark">
     <a href="https://github.com/isabvictoriaps/medcare"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=dark">
-      </div>
-       <div style:align="center" style="display: inline_block">
     <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=dark">
     <a href="https://github.com/isabvictoriaps/CurriculoBootstrap"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=CurriculoBootstrap&theme=dark">
     <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=dark">
