@@ -46,7 +46,6 @@
     <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=dark">
      <a href="https://github.com/isabvictoriaps/buscadorCEP"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=buscadorCEP&theme=dark">
      <a href="https://github.com/isabvictoriaps/caleb_bootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=caleb_bootstrap&theme=dark">
-        <a href="https://github.com/isabvictoriaps/ToDoList-React"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=ToDoList-React&theme=dark">
               
   </div>
               
