@@ -35,23 +35,5 @@
   
   ##
 
-  
-  <div style:align="center" style="display: inline_block"><br>
-  <h4 style="color: blue;">PROJETOS - INSTITUTO PROA</h4>
-    <a href="https://github.com/isabvictoriaps/LogicaDeProgramacao"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=LogicaDeProgramacao&theme=dark">
-    <a href="https://github.com/isabvictoriaps/SitesBootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=SitesBootstrap&theme=dark">
-    <a href="https://github.com/isabvictoriaps/medcare"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=medcare&theme=dark">
-    <a href="https://github.com/isabvictoriaps/Nodeshop"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Nodeshop&theme=dark">
-    <a href="https://github.com/isabvictoriaps/CurriculoBootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=CurriculoBootstrap&theme=dark">
-    <a href="https://github.com/isabvictoriaps/Cafe-responsivo"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=Cafe-responsivo&theme=dark">
-     <a href="https://github.com/isabvictoriaps/buscadorCEP"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=buscadorCEP&theme=dark">
-     <a href="https://github.com/isabvictoriaps/caleb_bootstrap"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=caleb_bootstrap&theme=dark">
-              
-  </div>
-              
-  <div style:align="center" style="display: inline_block"><br>
-  <h4 style="color: blue;">PROJETOS - DIGITAL INNOVATION ONE</h4>
-    <a href="https://github.com/isabvictoriaps/DIO/tree/main"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=isabvictoriaps&repo=DIO&theme=dark">
-  </div>
     
   ![Isabvictoriaps](https://komarev.com/ghpvc/?username=Isabvictoriaps)
