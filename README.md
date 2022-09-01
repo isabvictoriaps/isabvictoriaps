@@ -4,7 +4,7 @@
   <br>
  💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
  👨‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Python, SQL e Java; <br>
- 💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code; <br><br>
+ 💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL, Eclipse e Visual Studio Code; <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
  💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
  💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br><br>
