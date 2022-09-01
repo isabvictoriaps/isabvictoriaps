@@ -7,6 +7,7 @@
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code; <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
  💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
+ 💙 Currículo em landing page: https://isabvictoriaps.github.io/CurriculoBootstrap/ <br>
  💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br><br>
 </div>
 
