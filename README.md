@@ -1,10 +1,13 @@
-### Olá! Eu sou a Isabelle Victoria :)
+<div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2c8&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Isa!++%F0%9F%91%8B;Dev.+Full-stack+em+constru%C3%A7%C3%A3o!+%F0%9F%9A%A7)](https://git.io/typing-svg)
+</div>
 
 <div style="margin-right: 500px;">
   <br>
  💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
- 👨‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Python, SQL e Java; <br>
- 💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL, Eclipse e Visual Studio Code; <br><br>
+ 👨‍💻 Estudando Javascript, React.js, Python, Cloud e Java; <br>
+ 💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse e Visual Studio Code, SQL Developer e Insomnia; <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
  💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
  💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br><br>
