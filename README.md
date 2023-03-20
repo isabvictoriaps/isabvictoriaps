@@ -6,7 +6,7 @@
 <div style="margin-right: 500px;">
   <br>
  💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
- 👨‍💻 Estudando Javascript, React.js, Python, Cloud e Java; <br>
+ 👨‍💻 Estudando Node.js, React.js, Python, Cloud e Java; <br>
  💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse e Visual Studio Code, SQL Developer e Insomnia; <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
  💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
