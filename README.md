@@ -6,7 +6,7 @@
 <div style="margin-right: 500px;">
   <br>
  💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
- 🧡 Estagiária no maior banco da América Latina; <br>
+ 🧡 Engenheira de Software no maior banco da América Latina; <br>
  👨‍💻 Estudando Node.js, React.js, Angular, Python, Java e Amazon Web Service; <br>
  💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse, Visual Studio Code, SQL Developer e Insomnia. <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
