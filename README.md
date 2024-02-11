@@ -5,7 +5,8 @@
 
 <div style="margin-right: 500px;">
   <br>
- 💗 Estudante de Análise e Desenvolvimento de Sistemas na FIAP; <br>
+ 💗 Formada em Análise e Desenvolvimento de Sistemas pela FIAP; <br>
+ 💗 Estudante de Jogos Digitais pelo Centro Universitário Belas Artes; <br>
  🧡 Engenheira de Software no maior banco da América Latina; <br>
  👨‍💻 Estudando Node.js, React.js, Angular, Python, Java e Amazon Web Service; <br>
  💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse, Visual Studio Code, SQL Developer e Insomnia. <br><br>
