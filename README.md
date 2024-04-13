@@ -6,12 +6,10 @@
 <div style="margin-right: 500px;">
   <br>
  💗 Formada em Análise e Desenvolvimento de Sistemas pela FIAP; <br>
- 💗 Estudante de Jogos Digitais pelo Centro Universitário Belas Artes; <br>
  🧡 Engenheira de Software no maior banco da América Latina; <br>
  👨‍💻 Estudando Node.js, React.js, Angular, Python, Java e Amazon Web Service; <br>
  💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse, Visual Studio Code, SQL Developer e Insomnia. <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
- 💙 Portfólio de UX/UI Design: https://www.behance.net/isabellevictoria <br>
  💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br><br>
  👋 Conheça um pouquinho mais sobre mim clicando <a href="https://github.com/isabvictoriaps/CurriculoBootstrap/blob/main/README.md">aqui</a>
 </div>
