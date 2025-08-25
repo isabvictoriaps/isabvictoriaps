@@ -7,7 +7,7 @@
   <br>
  💗 Formada em Análise e Desenvolvimento de Sistemas pela FIAP; <br>
  🧡 Engenheira de Software no maior banco da América Latina; <br>
- 💻 Utilizo as ferramentas: Figma, Git, Jira, Eclipse, Visual Studio Code, SQL Developer e Insomnia. <br><br>
+ 💻 Desenvolvedora Kotlin com conhecimentos em Typescript. <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
  💙 Linkedin: https://www.linkedin.com/in/isabellevictoria/ <br><br>
  👋 Conheça um pouquinho mais sobre mim clicando <a href="https://github.com/isabvictoriaps/CurriculoBootstrap/blob/main/README.md">aqui</a>
