@@ -6,6 +6,7 @@
 <div style="margin-right: 500px;">
   <br>
  💗 Formada em Análise e Desenvolvimento de Sistemas pela FIAP; <br>
+ ❤ Pós-graduanda em Engenharia de Software pela PUC;  <br>
  🧡 Engenheira de Software no maior banco da América Latina; <br>
  💻 Desenvolvedora Kotlin com conhecimentos em Typescript. <br><br>
  💙 Contate-me em: Isabellevictoria.urs@gmail.com <br>
